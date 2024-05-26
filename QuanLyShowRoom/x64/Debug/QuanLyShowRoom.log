@@ -1,0 +1,13 @@
+﻿  Main.cpp
+D:\visual studio\NGUYENQUOCDUY\QuanLyShowRoom\Main.cpp(54,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\visual studio\NGUYENQUOCDUY\QuanLyShowRoom\Main.cpp(135,76): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\visual studio\NGUYENQUOCDUY\QuanLyShowRoom\Main.cpp(157,84): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\visual studio\NGUYENQUOCDUY\QuanLyShowRoom\Main.cpp(157,74): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Oto.cpp
+D:\visual studio\NGUYENQUOCDUY\QuanLyShowRoom\Oto.cpp(4,70): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Otokhach.cpp
+D:\visual studio\NGUYENQUOCDUY\QuanLyShowRoom\Otokhach.cpp(51,27): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Ototai.cpp
+D:\visual studio\NGUYENQUOCDUY\QuanLyShowRoom\Ototai.cpp(24,16): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  QuanLyShowRoom.vcxproj -> D:\visual studio\NGUYENQUOCDUY\x64\Debug\QuanLyShowRoom.exe
