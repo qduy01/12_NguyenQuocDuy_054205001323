@@ -1,0 +1,10 @@
+﻿  Main.cpp
+  quanlyxe.cpp
+D:\visual studio\NGUYENQUOCDUY\QuanLiShowroom\quanlyxe.cpp(73,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\visual studio\NGUYENQUOCDUY\QuanLiShowroom\quanlyxe.cpp(261,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  xe.cpp
+  xekhach.cpp
+  xetai.cpp
+D:\visual studio\NGUYENQUOCDUY\QuanLiShowroom\xetai.cpp(6,61): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  QuanLiShowroom.vcxproj -> D:\visual studio\NGUYENQUOCDUY\x64\Debug\QuanLiShowroom.exe
